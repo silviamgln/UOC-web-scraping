@@ -7,7 +7,7 @@ En esta práctica, se solicita la creación de un conjunto de datos en formato C
 
 ## 👤 Miembros
 
-Esta práctica ha sido realizada de manera grupal por **Silvia Martín Galán**.
+Esta práctica ha sido realizada de manera grupal por **Silvia Martín y Joseph Gyasi Dwumfour**.
 
 ## 📁 Estructura
 
